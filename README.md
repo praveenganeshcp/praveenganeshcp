@@ -1,5 +1,5 @@
 # Hello, I am Praveen Kumar
-#### A passionate and experianced software developer with curiosity to learn new tech things and implement in small creative projects
+### A passionate and experianced software developer with curiosity to learn new tech things and implement in small creative projects
 ## Tech stack & tools
 <div>
   <img alt="Angular" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
