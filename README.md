@@ -6,8 +6,9 @@
 <div>
   <a href="https://angular.io/" target="_blank"><img alt="Angular" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img alt="NodeJS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img alt="NestJS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img alt="NestJS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"> <img alt="RabbitMQ" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></a>
    <a href="https://git-scm.com/" target="_blank"><img alt="git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 
 </div>
