@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=praveenganeshcp&style=flat-square)
 # Hello, I am Praveen Kumar
-### A passionate and experienced software developer with curiosity to learn new tech things and implement in small creative projects
+A passionate and experienced Software Developer with curiosity to learn new tech things and implement in small creative projects. Exploring LLM and Agentic frameworks to integrate AI features in SaaS products.
 ## Tech stack & tools
 
 <div>
-  <a href="https://react.dev/" target="_blank"><img alt="React" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+  <a href="https://angular.dev/" target="_blank"><img alt="Angular" height="100" width="100" src="https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img alt="NodeJS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://nestjs.com/" target="_blank"><img alt="NestJS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
-   <a href="https://git-scm.com/" target="_blank"><img alt="git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+   <a href="https://www.langchain.com/langgraph" target="_blank"><img alt="git" height="100" width="100" src="https://miro.medium.com/v2/0*lMmMRkIsT8UvqJnX.png" /></a>
 
 </div>
 
