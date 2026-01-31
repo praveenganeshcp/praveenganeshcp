@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=praveenganeshcp&style=flat-square)
 # Hello, I am Praveen Kumar
-A passionate and experienced Software Developer with curiosity to learn new tech things and implement in small creative projects. Exploring LLM and Agentic frameworks to integrate AI features in SaaS products.
+Software Developer (5+ years) specializing in scalable SaaS systems with the MEAN stack. Delivered core modules in e-commerce catalog and CLM domains. Currently exploring on GenAI and agentic frameworks, to integrate AI-driven workflows and developer tooling into SaaS platforms.
 ## Tech stack & tools
 
 <div>
