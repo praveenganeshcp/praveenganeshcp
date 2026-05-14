@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=praveenganeshcp&style=flat-square)
 # Hello, I am Praveen Kumar
-Software Developer (5+ years) specializing in scalable SaaS systems with the MEAN stack. Delivered core modules in e-commerce catalog and CLM domains. Currently exploring on GenAI and agentic frameworks, to integrate AI-driven workflows and developer tooling into SaaS platforms.
+I’m a Full Stack Developer with 6 years of experience designing and building scalable SaaS applications. I’ve led the development of key features in e-commerce cataloging and CLM platforms, focusing on performance, usability, and maintainability. Currently, I’m exploring System Design and Gen AI architectures to build scalable applications with intelligent automation. 
+
+[Check out my portfolio](https://praveenganeshcp.github.io/)
 ## Tech stack & tools
 
 <div>
